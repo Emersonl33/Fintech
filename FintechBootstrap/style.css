@@ -1,0 +1,29 @@
+#icone{
+	width: 2%;
+}
+.img-carrosel{
+	object-fit: cover;
+	height: 420px;
+}
+.fonte-titulo{
+	padding: 45px;
+	font-family: 'Shadows Into Light', cursive;
+}
+section{
+	min-height: 2vh;
+}
+.fonte-corpo{
+	font-family: 'Libre Baskerville', serif;
+	font-size: 22px;
+}
+.card-posicao-img{
+	height: 200px;
+	object-fit: cover;
+
+}
+.card-largura{
+	max-width: 18rm;
+}
+.container{
+	align-items: center;
+}
